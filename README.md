@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Analytics
+# E-commerce-Sales-Analytics
 Interactive 3-Page Power BI Dashboard analyzing E-Commerce sales, operations, and profitability
 # 📊 E-Commerce Sales & Profitability Analytics
 
